@@ -1,0 +1,7 @@
+{
+  "name": "FamilyChores",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
